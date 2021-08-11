@@ -9,3 +9,5 @@
 4- https://www.figma.com/  (website-desing ) 
 
 5- https://9elements.github.io/fancy-border-radius/#50.50.50.50--. (border-radius-design)
+
+6-https://bennettfeely.com/clippy/  (Clippy)
