@@ -17,3 +17,5 @@
 8- https://cubic-bezier.com/#.17,.67,.83,.67 (cubuc-bezier)
 
 9- https://animista.net/ (animation-genarator)
+
+10- https://loading.io/  (loading-animation-icon)
