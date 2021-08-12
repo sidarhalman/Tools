@@ -15,3 +15,5 @@
 7-https://html-css-js.com/css/generator/transform/ (trabsform genarator)
 
 8- https://cubic-bezier.com/#.17,.67,.83,.67 (cubuc-bezier)
+
+9- https://animista.net/ (animation-genarator)
