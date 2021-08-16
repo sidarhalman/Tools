@@ -21,3 +21,5 @@
 10- https://loading.io/  (loading-animation-icon)
 
 11- https://getbootstrap.com/ (boot-strap)
+
+12-https://get.foundation/sites/docs/ (boot-strap)
